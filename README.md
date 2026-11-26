@@ -1,2 +1,3 @@
 # DesktopUIT
-26730105
+
+DesktopUIT is a repository for desktop UI experiments and projects.
